@@ -7,6 +7,10 @@ TagManager:
   - ColorChanger
   - Star
   - Fall
+  - Cyan
+  - Yellow
+  - Pink
+  - Purple
   layers:
   - Default
   - TransparentFX
